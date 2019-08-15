@@ -70,3 +70,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ### About App
 
 Simple app like netflix platform, i used Reactjs.
+
+### demo
+
+https://musing-feynman-c9514b.netlify.com/
